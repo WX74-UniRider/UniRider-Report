@@ -68,7 +68,7 @@
 |V1.0|06/09/2024|Valentino<br>Elias<br>Juan Diego<br>André<br>Diego|Revision final y entrega TB1.|
 
 # Project Report Collaboration Insights
-URL del repositorio para el reporte del proyecto: https://github.com/DevUniRider/grupo2-project-report
+URL del repositorio para el reporte del proyecto: https://github.com/WX74-UniRider
 
 **TB1**
 Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la responsabilidad de redactar las distintas secciones de la siguiente manera entre cada miembro del equipo:
@@ -1538,7 +1538,7 @@ En este Sprint (Sprint 1), se logró desarrollar el landing page de UniRider, el
 
 En mención al Main de la landing page, empleamos Github Pages para su correcto despliegue.
 
-https://devunirider.github.io/LandinPAge-URider/
+https://wx74-unirider.github.io/LandingPage/
 
 #### [5.2.1.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights-during-sprint)
 
