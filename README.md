@@ -1544,7 +1544,7 @@ https://wx74-unirider.github.io/LandingPage/
 
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code y IntelliJ IDE, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code/ IntelliJ IDE y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
-https://github.com/DevUniRider/LandinPAge-URider
+https://github.com/WX74-UniRider/LandingPage.git
 
 ![Evidencia](images/evidencia.png)
 
