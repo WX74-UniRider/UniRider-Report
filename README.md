@@ -37,12 +37,12 @@
             <td>U201923466</td>
         </tr>
         <tr> 
-            <td>Mayta Lopez, Harold Jaime</td>
-            <td>U202114851</td>
+            <td>Llacchua Peralta, Joseph Ulysses</td>
+            <td>U202317002</td>
         </tr>
         <tr> 
-            <td>Vera Nuñez, Nicolas Alejandro</td>
-            <td>U202214869</td>
+            <td>Arroyo Ormeño, André Alonso</td>
+            <td>U202114714</td>
         </tr>
     </table>
 
@@ -88,8 +88,8 @@ Los integrantes del equipo son:
 * Valentino Cervantes (KiwiAmenazante)
 * Salvador Chamorro (SALVA1704)
 * Diego Huincho (DiegoHLZ)
-* Harold Mayta (H4RRY73)
-* Nicolas Vera (nicxlxs)
+* Joseph Llachua (Joseph LLachua)
+* André Arroyo (anonimat0)
 
 **Student Outcomes**
 
@@ -214,9 +214,9 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td><img src="images/" alt="" width="" height=""></td>
   </tr>
   <tr>
-    <td>Mi nombre es Nicolas Alejandro Vera Nuñez. Tengo 19 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar en grupo, además soy una persona muy detallista. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los user personas, distintos diagramas y programando. En mi ratos libres me gusta jugar videojuegos o jugar futbol.
+    <td>Mi nombre es André Arroyo Ormeño. Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, estudioso y disciplinado. Desde pequeño siempre he tenido ese interés por la tecnología y dicha curiosidad me ha llevado a elegir esta carrera. Espero en el futuro adquirir los conocimientos necesarios de esta carrera para poder vivir de lo que me gusta.
     </td>
-    <td><img src="images/Nicolas.png" alt="" width="" height=""></td>
+    <td><img src="images/André.png" alt="" width="" height=""></td>
   </tr>
   <tr>
     <td>
@@ -225,8 +225,8 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
     <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
-    <td>Mi nombre es Harold Jaime Mayta Lopez. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
-    <td><img src="images/Harold.jpg" alt="" width="100" height="100"></td>
+    <td>Mi nombre es Joseph Llachua. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
+    <td><img src="images/Joseph.jpeg" alt="" width="100" height="100"></td>
   </tr>
   <tr>
       <td>Mi nombre es Diego Arturo Huincho Lapa. Tengo 22 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser detallista y responsable. En cuanto a cualidades para la realización del trabajo considero que soy bueno haciendo los mockups de la app. En mi ratos libres me gusta jugar videojuegos o mirar una serie o pelicula.</td>
