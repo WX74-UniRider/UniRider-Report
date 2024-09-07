@@ -168,18 +168,14 @@ Los integrantes del equipo son:
     - [**5.1.4. Software Deployment Configuration.**](#514-software-deployment-configuration)
   - [**5.2. Landing Page, Services \& Applications Implementation.**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1.**](#521-sprint-1)
-      - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-1)
-      - [**5.2.1.2. Sprint Backlog 1.**](#5212-sprint-backlog-1)
-      - [**5.2.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-- [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
-- [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
-- [8. **Anexos.**](#anexos)
-
+    - [**5.2.2.  Implemented Landing Page Evidence**](#522-Implemented-Landing-Page-Evidence)
+    - [**5.2.3.  Implemented Frontend-Web Application Evidence**](#523-Implemented-Frontend-Web-Application-Evidence)
+    - [**5.2.4.  Implemented Native-Mobile Application Evidence**](#524-Implemented-Native-Mobile-Application-Evidence)
+    - [**5.2.5.  Implemented RESTful API and/or Serverless Backend Evidence**](#525-Implemented-RESTfulAPI-and/or-Serverless-Backend-Evidence)
+    - [**5.2.6.  RESTful API documentation**](#526-RESTful-API-documentation)
+    - [**5.2.7.  Team Collaboration Insights**](#527-Team-Collaboration-Insights)
+    
+      
 
 
 # [Capítulo I: Introducción.](#capítulo-i-introducción)
