@@ -33,6 +33,10 @@
             <td>U201914367</td>
         </tr>
         <tr> 
+            <td>Huamán Monzón, Juan Diego</td>
+            <td>U201923466</td>
+        </tr>
+        <tr> 
             <td>Huincho Lapa, Diego Arturo</td>
             <td>U201923466</td>
         </tr>
@@ -72,10 +76,10 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 |Integrante|Tareas Asignadas|
 |---|---|
 |Valentino Cervantes|Software Architecture Container Diagrams.<br>Software Architecture Components Diagrams.<br>Software Object-Oriented Design.<br>Class Diagrams.<br>Class Dictionary.<br>Database Design.<br>Database Diagram.<br>Landing Page<br>Sprint 1|
-|Salvador Chamorro|Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1|
+|Juan Diego Huamán|Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1|
 |Diego Huincho|Style Guidelines.<br>General Style Guidelines.<br>Web Style Guidelines.<br>Information Architecture.<br>Organization Systems.<br>Labeling Systems.<br>SEO Tags and Meta Tags<br>Searching Systems.<br>Navigation Systems.<br>Landing Page UI Design.<br>Landing Page Wireframe.<br>Landing Page<br>Sprint 1|
-|Joseph|Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
-|André Arroyo|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
+|Harold Mayta|Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
+|Nicolas Vera|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
@@ -88,6 +92,7 @@ Los integrantes del equipo son:
 * Valentino Cervantes (KiwiAmenazante)
 * Salvador Chamorro (SALVA1704)
 * Diego Huincho (DiegoHLZ)
+* Juan Diego Huamán (ConquestJD)
 * Joseph Llachua (Joseph LLachua)
 * André Arroyo (anonimat0)
 
@@ -95,8 +100,8 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones<br><br>**Salvador Chamorro**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia<br><br>**Salvador Chamorro**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad. |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones<br><br>**Juan Diego Huamán**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia<br><br>**Juan Diego Huamán**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad. |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 - [Contenido](#contenido)
 
@@ -168,14 +173,18 @@ Los integrantes del equipo son:
     - [**5.1.4. Software Deployment Configuration.**](#514-software-deployment-configuration)
   - [**5.2. Landing Page, Services \& Applications Implementation.**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1.**](#521-sprint-1)
-    - [**5.2.2.  Implemented Landing Page Evidence**](#522-Implemented-Landing-Page-Evidence)
-    - [**5.2.3.  Implemented Frontend-Web Application Evidence**](#523-Implemented-Frontend-Web-Application-Evidence)
-    - [**5.2.4.  Implemented Native-Mobile Application Evidence**](#524-Implemented-Native-Mobile-Application-Evidence)
-    - [**5.2.5.  Implemented RESTful API and/or Serverless Backend Evidence**](#525-Implemented-RESTfulAPI-and/or-Serverless-Backend-Evidence)
-    - [**5.2.6.  RESTful API documentation**](#526-RESTful-API-documentation)
-    - [**5.2.7.  Team Collaboration Insights**](#527-Team-Collaboration-Insights)
-    
-      
+      - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-1)
+      - [**5.2.1.2. Sprint Backlog 1.**](#5212-sprint-backlog-1)
+      - [**5.2.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
+- [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
+- [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
+- [8. **Anexos.**](#anexos)
+
 
 
 # [Capítulo I: Introducción.](#capítulo-i-introducción)
@@ -216,9 +225,9 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
   </tr>
   <tr>
     <td>
-        Mi nombre es Salvador Chamorro. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo.
+        Mi nombre es Juan Diego Huamán Monzón. Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación e ingeniería de software. Me considero una persona bastante empática y creativa. Considero que mi perfil tiene todo lo necesario para aportar al grupo de trabajo.
     </td>
-    <td><img src="images/salvadorfoto.jpg"  alt="" width="100" height="100"></td>
+    <td><img src="images/JuanDiego.png"  alt="" width="100" height="100"></td>
   </tr>
   <tr>
     <td>Mi nombre es Joseph Llachua. Tengo 20 años y estoy estudiando la carrera de Ingeniería de Software. Considero que soy una persona que es capaz de trabajar bajo presión, además de ser responsable y perseverante. En cuanto a cualidades para la realización del trabajo consideroque soy bueno identificando problemáticas y buscando soluciones.</td>
@@ -1347,7 +1356,7 @@ Prototipado Mobile:
 |Integrantes| Cuenta de GitHub      |
 |----------|-----------------------|
 |Cervantes Erequita, Valentino Sebastian|U202110140@upc.edu.pe|
-|Chamorro Acero, Salvador Edward|U201914367@upc.edu.pe|
+|Huamán Monzón, Juan Diego |U202123965@upc.edu.pe|
 |Huincho Lapa, Diego Arturo|U201923466@upc.edu.pe|
 |Mayta Lopez, Harold Jaime|U202114851@upc.edu.pe|
 |Vera Nuñez, Nicolas Alejandro|nicolas.vera.nunez.2004@gmail.com|
@@ -1433,7 +1442,7 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | Time                             | 18:00 horas (GMT-5)                                                                                                                                                                                       |
 | Location                         | Reunión realizada mediante Discord                                                                                                                                                                        |
 | Prepared By                      | Mayta Lopez, Harold Jaime	                                                                                                                                                                                |
-| PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Chamorro Acero, Salvador Edward </li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li> |
+| PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Huamán Monzón, Juan Diego </li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li> |
 |Sprint n -1 Review|
 |Resumen| Se creará la organización de UniRider en Github, se crea las ramas, se separa los trabajos a realizar como entrevistas, wireframe y mock-up                                                               |
 |Sprint n -1 Retrospective|
