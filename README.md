@@ -6,11 +6,11 @@
  ![LogoUpc](images/upcLogo.png) 
 
   <p align="center">
-    Ingeniería de Software - 202401
+    Ingeniería de Software - 202402
     <br />
-    WX56 - Aplicaciones Web
+    WX74 - Diseño de experimentos de ingenieria de software
     <br />
-    Docente: Alex Humberto Sánchez Ponce
+    Docente: Julio Manuel Noriega
     <br />
     Informe de Trabajo Final
     <br />
@@ -29,7 +29,7 @@
             <td>U202110140</td>
         </tr>
         <tr> 
-            <td>Chamorro Acero, Salvador Edward</td>
+            <td>Elias Yauri Paucar</td>
             <td>U201914367</td>
         </tr>
         <tr> 
@@ -51,7 +51,7 @@
     </table>
 
   <p align="center">
-    Abril-2024
+    Agosto-2024
   </p>
 
 </div>
@@ -60,12 +60,12 @@
 # Registro de Versiones del Informe
 |Versión|Fecha|Autor|Descripción de modificación|
 |-------|-----|-----|---------------------------|
-|V0.1|6/04/2024|Harold|Creación del repositorio|
-|V0.2|07/04/2024|Harold<br>Nicolasz| Capitulo 1 y Capitulo 2|
-|V0.2.1|07/04/2024|Valetino|Capitulo 3|
-|V0.3|10/04/2024|Salvador<br>Diego<br>Valentino|Capitulo 4|
-|V0.4|11/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Capitulo 5 y ultimos ajuste|
-|V1.0|12/04/2024|Nicolas<br>Harold<br>Salvador<br>Diego<br>Valentino|Revision final y entrega TB1.|
+|V0.1|6/09/2024|Valentino|Creación del repositorio|
+|V0.2|06/09/2024|Elias<br>Juan Diego| Revision Capitulo 1 y Capitulo 2|
+|V0.2.06|09/04/2024|Valentino|Capitulo 3|
+|V0.3|06/09/2024|Diego<br>André|Capitulo 4|
+|V0.4|06/09/2024|Valentino<br>Elias<br>Juan Diego<br>André<br>Diego|Capitulo 5 y ultimos ajuste|
+|V1.0|06/09/2024|Valentino<br>Elias<br>Juan Diego<br>André<br>Diego|Revision final y entrega TB1.|
 
 # Project Report Collaboration Insights
 URL del repositorio para el reporte del proyecto: https://github.com/DevUniRider/grupo2-project-report
@@ -78,8 +78,9 @@ Para elaborar el informe correspondiente a la entrega TB1, se distribuyó la res
 |Valentino Cervantes|Software Architecture Container Diagrams.<br>Software Architecture Components Diagrams.<br>Software Object-Oriented Design.<br>Class Diagrams.<br>Class Dictionary.<br>Database Design.<br>Database Diagram.<br>Landing Page<br>Sprint 1|
 |Juan Diego Huamán|Landing Page Wireframe.Landing Page Mock-up.<br>Web Applications UX/UI Design.<br>Web Applications Wireframes.<br>Web Applications Wireflow Diagrams.<br>Web Applications Mock-ups.<br>Web Applications User Flow Diagrams.<br>Web Applications Prototyping.<br>Landing Page<br>Sprint 1|
 |Diego Huincho|Style Guidelines.<br>General Style Guidelines.<br>Web Style Guidelines.<br>Information Architecture.<br>Organization Systems.<br>Labeling Systems.<br>SEO Tags and Meta Tags<br>Searching Systems.<br>Navigation Systems.<br>Landing Page UI Design.<br>Landing Page Wireframe.<br>Landing Page<br>Sprint 1|
-|Harold Mayta|Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
-|Nicolas Vera|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
+| Elias Yauri Paucar |Startup Profile<br>Startup Profile<br><br>Solution Profile<br>Antecedentes y problemática<br>Lean UX Process.<br>Lean UX Problem Statements.<br>Lean UX Assumptions.<br>Lean UX Hypothesis Statements.<br>Lean UX Canvas.<br>Segmentos objetivo.<br>Software Configuration Management.<br>Software Development Environment Configuration.<br>Source Code Management.<br>Source Code Style Guide & Conventions.<br>Software Deployment Configuration.<br>Landing Page, Services & Applications Implementation.<br>Landing Page<br>Sprint 1|
+|Andre Alonso|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
+|Joseph Ulises|Análisis competitivo.<br>Estrategias y tácticas frente a competidores.<br>Entrevistas.<br>Diseño de entrevistas.<br>Registro de entrevistas.<br>Análisis de entrevistas.<br>Needfinding.<br>User Personas.<br>User Task Matrix.<br>User Journey Mapping.<br>Empathy Mapping.<br>As-is Scenario Mapping.<br>Ubiquitous Language.<br>Sprint 1|
 
 La colaboración en la creación del informe se llevó a cabo a través de una serie de contribuciones constantes al repositorio de la organización UniRider.
 
@@ -90,7 +91,7 @@ GitHub nos permite exponer una linea de tiempo de nuestras ramas principales y e
 
 Los integrantes del equipo son:
 * Valentino Cervantes (KiwiAmenazante)
-* Salvador Chamorro (SALVA1704)
+* Lias Yauri Pauca (EliasYP)
 * Diego Huincho (DiegoHLZ)
 * Juan Diego Huamán (ConquestJD)
 * Joseph Llachua (Joseph LLachua)
@@ -100,90 +101,113 @@ Los integrantes del equipo son:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 |---|---|---|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto eningeniería.|**Valentino Cervantes**<br>TB1:Durante el proceso de creación de los mapas de empatia, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes idas las cuales pudimos conversarlo en reuniones<br><br>**Juan Diego Huamán**<br>TB1:<br>Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicacion activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br>**Diego Huincho**<br>TB1:<br>Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>**Harold Mayta**<br>TB1:<br>Se realizo reuniones con el objetivo de planificar la ruta de trabajo asi como el desarrollo de las sentrevistas a nuestro futuro publico objetivo. Se participo activamente en lluvia de ideas para claer los planes de servicio y la linea de trabajo.<br>**Nicolas Vera**<br>TB1:<br>Durante el proceso de desarrollo de nuestra prototipo para nuestro futuros clientes, he terminado comprendiedno la importancia que tiene sus necesidades y deseos.Ademas, esta comprension ha mejorado gracias a distirnas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solucion innovadora para los clientes.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1:Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacia<br><br>**Juan Diego Huamán**<br>TB1:<br>Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br>**Diego Huincho**<br>TB1:<br>Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>**Harold Mayta**<br>TB1:<br>Se realizo la separacionde trabajos de acuerdo a las competencias de cada integrante, se diseño la entrevista para nuestro publico objetivo, tambien la redaccion de los capitulos relacionados a la implementacion, valdacion. Se participo activamente del diseño de producto.<br>**Nicolas Vera**<br>TB1:<br>Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad. |La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1: Durante el proceso de creación de los mapas de empatía, persona y diagrama de clases, pude reconocer diversos factores dentro del negocio que son importantes, ideas las cuales pudimos conversarlo en reuniones.<br><br>**Juan Diego Huamán**<br>TB1: Durante esta primera etapa del proyecto ha sido de mucha importancia la comunicación activa tanto entre integrantes del proyecto como con los clientes, y gracias a esto hemos podido empezar con un proyecto bien estructurado y autosostenible.<br><br>**Diego Huincho**<br>TB1: Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br><br>**Joseph Ulysses**<br>TB1: Se realizaron reuniones con el objetivo de planificar la ruta de trabajo así como el desarrollo de las entrevistas a nuestro futuro público objetivo. Se participó activamente en lluvia de ideas para aclarar los planes de servicio y la línea de trabajo.<br><br>**André Arroyo**<br>TB1: Durante el proceso de desarrollo de nuestro prototipo para nuestros futuros clientes, he terminado comprendiendo la importancia que tienen sus necesidades y deseos. Además, esta comprensión ha mejorado gracias a distintas charlas y reuniones que he tenido con mis compañeros de trabajo con la finalidad de poder presentar una solución innovadora para los clientes.<br><br>**Elias Yauri Paucar**<br>TB1: En las reuniones de equipo y con stakeholders de diferentes niveles, he podido presentar ideas y resultados de manera clara y concisa, adaptando el lenguaje técnico para ser comprendido por todos. Esta capacidad de comunicación ha facilitado la alineación del equipo y el entendimiento común de los objetivos del proyecto.|La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|**Valentino Cervantes**<br>TB1: Este enfoque de grupo me permitió compartir ideas y en general establecer un marco de trabajo colaborativo eficiente dado que pude tener retroalimentaciones de cada parte que hacía.<br><br>**Juan Diego Huamán**<br>TB1: Gracias al correcto trabajo en equipo hemos podido lograr todos los objetivos propuestos que nos han llevado a lograr esta primera etapa del proyecto.<br><br>**Diego Huincho**<br>TB1: Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas.<br><br>**Joseph Ulises**<br>TB1: Se realizó la separación de trabajos de acuerdo a las competencias de cada integrante, se diseñó la entrevista para nuestro público objetivo, también la redacción de los capítulos relacionados a la implementación, validación. Se participó activamente del diseño de producto.<br><br>**André Arroyo**<br>TB1: Gracias al correcto trabajo en equipo que hemos realizado nos ha permitido crear un prototipo que supera las expectativas de nuestros clientes; ya que ofrecemos soluciones innovadoras que resuelven problemas que son evidenciados en la actualidad.<br><br>**Elias Yauri Paucar**<br>TB1: He documentado los resultados de las fases del proyecto de manera estructurada y clara, facilitando la comprensión de los entregables por parte de todos los miembros del equipo y los stakeholders. Este enfoque ha asegurado una alineación en la ejecución y en la calidad del trabajo.|La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
-- [Contenido](#contenido)
 
-- [**Capítulo I: Introducción.**](#capítulo-i-introducción)
-  - [**1.1  Startup Profile.**](#11--startup-profile)
-    - [**1.1.1. Descripción del startup.**](#111-descripción-del-startup)
-    - [**1.1.2.  Perfiles de los integrantes del equipo.**](#112--perfiles-de-los-integrantes-del-equipo)
-  - [**1.2. Solution Profile.**](#12-solution-profile)
-    - [**1.2.1. Antecedentes y Problemática.**](#121-antecedentes-y-problemática)
-    - [**1.2.2. Lean UX Process.**](#122-lean-ux-process)
-      - [**1.2.2.1. Lean UX Problem Statements.**](#1221-lean-ux-problem-statements)
-      - [**1.2.2.2. Lean UX Assumptions.**](#1222-lean-ux-assumptions)
-      - [**1.2.2.3. Lean UX Hypothesis Statements.**](#1223-lean-ux-hypothesis-statements)
-      - [**1.2.2.4. Lean UX Canvas.**](#1224-lean-ux-canvas)
-  - [**1.3. Segmentos objetivo.**](#13-segmentos-objetivo)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [GitHub Insights](#github-insights)
+- [Capítulo I: Introducción.](#capítulo-i-introducción)
+  - [1.1 Startup Profile](#11-startup-profile)
+    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2 Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
+  - [1.2 Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 - [**Capítulo II: Requirements Elicitation \& Analysis**](#capítulo-ii-requirements-elicitation--analysis)
-  - [**2.1. Competidores.**](#21-competidores)
-    - [**2.1.1. Análisis competitivo.**](#211-análisis-competitivo)
-    - [**2.1.2. Estrategias y tácticas frente a competidores.**](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [**2.2. Entrevistas.**](#22-entrevistas)
-    - [**2.2.1. Diseño de entrevistas.**](#221-diseño-de-entrevistas)
-    - [**2.2.2. Registro de entrevistas.**](#222-registro-de-entrevistas)
-    - [**2.2.3. Análisis de entrevistas.**](#223-análisis-de-entrevistas)
-  - [**2.3. Needfinding.**](#23-needfinding)
-    - [**2.3.1. User Personas.**](#231-user-personas)
-    - [**2.3.2. User Task Matrix.**](#232-user-task-matrix)
-    - [**2.3.3. User Journey Mapping**](#233-user-journey-mapping)
-    - [**2.3.4. Empathy Mapping**](#234-empathy-mapping)
-    - [**2.3.5. As-is Scenario Mapping**](#235-as-is-scenario-mapping)
-  - [**2.4. Ubiquitous Language**](#24-ubiquitous-language)
-- [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
-  - [**3.1. To-Be Scenario Mapping.**](#31-to-be-scenario-mapping)
-  - [**3.2.User Stories.**](#32user-stories)
-  - [**3.3. Impact Mapping.**](#33-impact-mapping)
-  - [**3.4. Product Backlog.**](#34-product-backlog)
-- [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
-  - [**4.1. Style Guidelines.**](#41-style-guidelines)
-    - [**4.1.1. General Style Guidelines.**](#411-general-style-guidelines)
-    - [**4.1.2. Web Style Guidelines.**](#412-web-style-guidelines)
-  - [**4.2. Information Architecture.**](#42-information-architecture)
-    - [**4.2.1. Organization Systems.**](#421-organization-systems)
-    - [**4.2.2. Labeling Systems.**](#422-labeling-systems)
-    - [**4.2.3. SEO Tags and Meta Tags.**](#423-seo-tags-and-meta-tags)
-    - [**4.2.4. Searching Systems.**](#424-searching-systems)
-    - [**4.2.5. Navigation Systems.**](#425-navigation-systems)
-  - [**4.3. Landing Page UI Design**](#43-landing-page-ui-design)
-    - [**4.3.1. Landing Page Wireframe.**](#431-landing-page-wireframe)
-    - [**4.3.2. Landing Page Mock-up.**](#432-landing-page-mock-up)
-  - [**4.4. Web Applications UX/UI Design.**](#44-web-applications-uxui-design)
-    - [**4.4.1. Web Applications Wireframes.**](#441-web-applications-wireframes)
-    - [**4.4.2. Web Applications Wireflow Diagrams.**](#442-web-applications-wireflow-diagrams)
-    - [**4.4.3. Web Applications Mock-ups.**](#443-web-applications-mock-ups)
-    - [**4.4.4. Web Applications User Flow Diagrams.**](#444-web-applications-user-flow-diagrams)
-  - [**4.5. Web Applications Prototyping.**](#45-web-applications-prototyping)
-  - [**4.6. Domain-Driven Software Architecture**](#46-domain-driven-software-architecture)
-    - [**4.6.1. Software Architecture Context Diagram.**](#461-software-architecture-context-diagram)
-    - [**4.6.2. Software Architecture Container Diagrams.**](#462-software-architecture-container-diagrams)
-    - [**4.6.3. Software Architecture Components Diagrams.**](#463-software-architecture-components-diagrams)
-  - [**4.7. Software Object-Oriented Design.**](#47-software-object-oriented-design)
-    - [**4.7.1. Class Diagrams.**](#471-class-diagrams)
-    - [**4.7.2. Class Dictionary.**](#472-class-dictionary)
-  - [**4.8. Database Design.**](#48-database-design)
-    - [**4.8.1. Database Diagram.**](#481-database-diagram)
-- [**Capítulo V: Product Implementation, Validation \& Deployment.**](#capítulo-v-product-implementation-validation--deployment)
-  - [**5.1. Software Configuration Management.**](#51-software-configuration-management)
-    - [**5.1.1. Software Development Environment Configuration.**](#511-software-development-environment-configuration)
-    - [**5.1.2. Source Code Management.**](#512-source-code-management)
-    - [**5.1.3. Source Code Style Guide \& Conventions.**](#513-source-code-style-guide--conventions)
-    - [**5.1.4. Software Deployment Configuration.**](#514-software-deployment-configuration)
-  - [**5.2. Landing Page, Services \& Applications Implementation.**](#52-landing-page-services--applications-implementation)
-    - [**5.2.1. Sprint 1.**](#521-sprint-1)
-      - [**5.2.1.1. Sprint Planning 1.**](#5211-sprint-planning-1)
-      - [**5.2.1.2. Sprint Backlog 1.**](#5212-sprint-backlog-1)
-      - [**5.2.1.3. Development Evidence for Sprint Review.**](#5213-development-evidence-for-sprint-review)
-      - [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#5214-testing-suite-evidence-for-sprint-review)
-      - [**5.2.1.5. Execution Evidence for Sprint Review.**](#5215-execution-evidence-for-sprint-review)
-      - [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#5216-services-documentation-evidence-for-sprint-review)
-      - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
-      - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
-- [**Capítulo VI: Conclusion.**](#capítulo-vi-conclusion)
-- [**Capítulo VII: Bibliografia.**](#capítulo-vii-bibliografia)
-- [8. **Anexos.**](#anexos)
+- [2.1 Competidores](#21-competidores)
+    - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2 Entrevistas](#22-entrevistas)
+    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2 Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3 Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3 Needfinding](#23-needfinding)
+    - [2.3.1 User Personas](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4 Ubiquitous Language](#24-ubiquitous-language)
+- [Capítulo III: Requirements Specification.](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping.](#31-to-be-scenario-mapping)
+  - [3.2. User Stories.](#32-user-stories)
+  - [3.3. Impact Mapping.](#33-impact-mapping)
+  - [3.4. Product Backlog.](#34-product-backlog)
+- [Capítulo IV: Product Design.](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+    - [4.7.2. Class Dictionary.](#472-class-dictionary)
+- [Class usuario](#class-usuario)
+- [Class viaje](#class-viaje)
+- [Class registro](#class-registro)
+- [Class Mensaje](#class-mensaje)
+- [Class Notificaciones](#class-notificaciones)
+- [Class Billetera](#class-billetera)
+- [Class Card](#class-card)
+- [Class Cuenta](#class-cuenta)
+- [Class Matricula](#class-matricula)
+- [Class Instituto](#class-instituto)
+- [Class Conductor](#class-conductor)
+- [Class Ruta](#class-ruta)
+- [Class Licencia](#class-licencia)
+- [Class Auto](#class-auto)
+- [Class RegistroVehicular](#class-registrovehicular)
+- [Class Seguro](#class-seguro)
+- [Class Planes](#class-planes)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagram.](#481-database-diagram)
+- [Capítulo V: Product Implementation, Validation \& Deployment.\*\*](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [Gherkin](#gherkin)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1.](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+- [6.Conclusiones.](#6conclusiones)
+- [7.Bibliografía.](#7bibliografía)
+- [8.Anexos.](#8anexos)
 
 
 
@@ -212,10 +236,10 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
 <table>
   <tr>
     <td>Perfiles de los integrantes del equipo</td>
-    <td></td>
+    <td>Foto</td>
   </tr>
   <tr>
-    <td></td>
+    <td>My nombre es Elias Yauri Paucar.</td>
     <td><img src="images/" alt="" width="" height=""></td>
   </tr>
   <tr>
@@ -1358,8 +1382,9 @@ Prototipado Mobile:
 |Cervantes Erequita, Valentino Sebastian|U202110140@upc.edu.pe|
 |Huamán Monzón, Juan Diego |U202123965@upc.edu.pe|
 |Huincho Lapa, Diego Arturo|U201923466@upc.edu.pe|
-|Mayta Lopez, Harold Jaime|U202114851@upc.edu.pe|
-|Vera Nuñez, Nicolas Alejandro|nicolas.vera.nunez.2004@gmail.com|
+|Llacchua Peralta, Joseph Ulysses|U202114851@upc.edu.pe|
+|Arroyo Ormeño, André Alonso||
+|Elias Yauri Paucar||
 
 **Despliegues**
 URL Landing Page desplegada:
@@ -1438,11 +1463,11 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                              |
 | -------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sprint Planning Background       |
-| Date                             | 05/04/2024                                                                                                                                                                                                |
+| Date                             | 07/09/2024                                                                                                                                                                                                |
 | Time                             | 18:00 horas (GMT-5)                                                                                                                                                                                       |
 | Location                         | Reunión realizada mediante Discord                                                                                                                                                                        |
-| Prepared By                      | Mayta Lopez, Harold Jaime	                                                                                                                                                                                |
-| PAttendees (to planning meeting) | <li>Mayta Lopez, Harold Jaime</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Huamán Monzón, Juan Diego </li> <li>Huincho Lapa, Diego Arturo</li> <li>Vera Nuñez, Nicolas Alejandro</li> |
+| Prepared By                      | Llacchua Peralta, Joseph Ulysses	                                                                                                                                                                                |
+| PAttendees (to planning meeting) | <li>Llacchua Peralta, Joseph Ulysses</li>	 <li>Cervantes Erequita, Valentino Sebastian</li> <li>Huamán Monzón, Juan Diego </li> <li>Huincho Lapa, Diego Arturo</li> <li>Arroyo Ormeño, André Alonso</li>  <li>Elias Yauri Paucar</li>|
 |Sprint n -1 Review|
 |Resumen| Se creará la organización de UniRider en Github, se crea las ramas, se separa los trabajos a realizar como entrevistas, wireframe y mock-up                                                               |
 |Sprint n -1 Retrospective|
@@ -1456,29 +1481,29 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | id   | Title                 | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To        | Status(To-do /InProcess/ToReview/Done) |
 | ---- |-----------------------| --- |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------|--------------------|---------------------------------------|
 | GW01 | Apartado del Header   | G01 | Header responsivos (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Diego Huincho      | Done                                  |
-| GW02 | Apartado del Footer   | G02 | Footer responsivos (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | Nicolas Vera       | Done                                  |
-| GW03 | Apartado Home         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección Home. Debe ser responsive.           | 3                  | Harold Mayta       | Done                                  |
+| GW02 | Apartado del Footer   | G02 | Footer responsivos (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2                  | André Arroyo       | Done                                  |
+| GW03 | Apartado Home         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a la sección Home. Debe ser responsive.           | 3                  | Joseph Ulises      | Done                                  |
 | GW04 | Apartado Producto     | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a Producto. Debe ser responsive.                  | 2                  | Valentino Cervante | Done                                  |
-| GW05 | Apartado contacto     | G05 | Sección "Contacto"(Desarrollado en HTML y CSS)           | Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3                  | Harold Mayta       | Done                                  |
+| GW05 | Apartado contacto     | G05 | Sección "Contacto"(Desarrollado en HTML y CSS)           | Desarrollo e implementación de los estilos que corresponden a la sección Testimonios. Debe ser responsive.    | 3                  | Jseph Ulises       | Done                                  |
 | GW06 | Sección Sobre equipo  | G06 | Información del equipo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la información del equipo. Debe ser responsive. | 3                  | Diego Huincho      | Done                                  |
-| GW07 | Apartado planes       | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.   | 3                  | Salvador Chamorro  | Done                                  |
-| GW08 | Apartado encabezado   | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Salvador Chamorro  | Done                                  |
+| GW07 | Apartado planes       | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.   | 3                  |Juan Diego Huamám | Done                                  |
+| GW08 | Apartado encabezado   | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de un estilo responsive en toda la página.                                        | 2                  | Juan Diego Humán  | Done                                  |
 
 #### [5.2.1.3. Development Evidence for Sprint Review.](#development-evidence-for-sprint-review)
 
 | Repository          | Branch               | Commit Id | Commit Message                                 | Commit Message Body | Commited on (Date) |
 |---------------------|----------------------|-----------|------------------------------------------------|---------------------|--------------------|
-| LandingPAge-IRider  | feature/index.html   | a1d1832   | ffeat: Landing Page Header                     | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | cb61119   | feat: add landing page header                  | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 9f59767   | feat: add Home                                 | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 72ed56e   | feat: Landing page added About us              | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 491b9fe   | feat: implement section's Landing Page product | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 8c074f3   | feat: Landing page plans section               | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 0cef6a3   | feat: landingPage add team section             | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 3e98bf6   | feat: Landing page add Footer section          | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 765e7ad   | feat: Landing page add Footer section          | -                   | 11/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 7241cbb   | feat: add style file for the landin page       | -                   | 12/04/2024         |
-| LandingPAge-IRider  | feature/index.html   | 2b566ab   | feat: (Landing Page) implement responsive      | -                   | 12/04/2024         |
+| LandingPAge-IRider  | feature/index.html   | a1d1832   | ffeat: Landing Page Header                     | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | cb61119   | feat: add landing page header                  | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 9f59767   | feat: add Home                                 | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 72ed56e   | feat: Landing page added About us              | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 491b9fe   | feat: implement section's Landing Page product | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 8c074f3   | feat: Landing page plans section               | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 0cef6a3   | feat: landingPage add team section             | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 3e98bf6   | feat: Landing page add Footer section          | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 765e7ad   | feat: Landing page add Footer section          | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 7241cbb   | feat: add style file for the landin page       | -                   | 07/09/2024         |
+| LandingPAge-IRider  | feature/index.html   | 2b566ab   | feat: (Landing Page) implement responsive      | -                   | 07/09/2024         |
 
 #### [5.2.1.4. Testing Suite Evidence for Sprint Review.](#testing-suite-evidence-for-sprint-review)
 
