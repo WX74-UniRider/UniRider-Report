@@ -265,6 +265,10 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
       <td>Mi nombre es Valentino Cervantes gusta programar. escuchar música, jugar y leer un poco. Suelo hacer proyectos dedicados a ayudar a personas de mi entorno usando múltiples herramientas de programación. Puedo realizar trabajos de planeamiento e investigación para los proyectos en los que participo. Puedo aportar al equipo mejorando o apoyando en partes difíciles.</td>
     <td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
   </tr>
+     <tr>
+      <td>Mi nombre es Elias Yauri, soy una persona muy participativa cuando se trata en el tema laboral y en el trabajo en equipo, siempre trato que haya una comunicación constante con todos los miembros del grupo para de esta forma poder tener todos una buena afinidad como grupo y que el trabajo se realice de manera exitosa.</td>
+    <td><img src="images/Elias.jpeg" width="100" height="100"></td>
+  </tr>
 
     
 </table>
@@ -1384,7 +1388,7 @@ Prototipado Mobile:
 |Huincho Lapa, Diego Arturo|U201923466@upc.edu.pe|
 |Llacchua Peralta, Joseph Ulysses|U202114851@upc.edu.pe|
 |Arroyo Ormeño, André Alonso||
-|Elias Yauri Paucar||
+|Elias Yauri Paucar|U202211817@upc.edu.pe|
 
 **Despliegues**
 URL Landing Page desplegada:
