@@ -1614,6 +1614,37 @@ El desarrollo guiado por comportamiento se centra en definir el comportamiento d
     - Entonces se redirige a la página de inicio de sesión con un mensaje de error.
 
 ### [6.1.4. Core System Tests.](#614-Core-System-Tests)
+Las pruebas de sistema (System Tests) se enfocan en evaluar el comportamiento completo del sistema UniRider en su entorno de ejecución real. Estas pruebas verifican que todos los componentes, tanto de backend como de frontend, trabajen en conjunto y que el sistema cumpla con los requisitos funcionales y no funcionales establecidos.
+
+Objetivo: Validar que el sistema completo funcione correctamente desde la perspectiva del usuario final, asegurando que los flujos de trabajo principales operen de manera adecuada y que el sistema responda a las interacciones de los usuarios como se espera.
+
+Ejemplos de pruebas:
+- Registro y autenticación de usuarios:
+  - Validar que un usuario puede registrarse, iniciar sesión, y acceder a las funcionalidades del sistema según su rol.
+  - Verificar el flujo completo de autenticación de dos factores, si está habilitado.
+
+- Búsqueda y reserva de viajes:
+  - Probar que los usuarios pueden buscar viajes disponibles, aplicar filtros como ubicación y hora, y reservar con éxito.
+  - Asegurar que el sistema muestra notificaciones adecuadas en caso de errores, como intentar reservar un viaje sin disponibilidad.
+
+- Procesamiento de pagos:
+  - Verificar que el sistema permite a los usuarios realizar pagos de manera segura, y que se registran correctamente en la base de datos.
+  - Validar que los usuarios reciben confirmaciones tras completar el pago, y que se actualiza el estado de la reserva.
+
+- Calificación y comentarios:
+  - Asegurarse de que, al finalizar el viaje, los usuarios puedan calificar al conductor y dejar comentarios, y que esta información se refleje correctamente en el perfil del conductor.
+
+- Desempeño bajo carga:
+  - Evaluar cómo responde el sistema cuando hay un alto número de usuarios concurrentes buscando y reservando viajes al mismo tiempo.
+  - Validar que el sistema sigue funcionando de manera eficiente y no experimenta tiempos de espera prolongados o fallos de respuesta.
+
+Herramientas y frameworks utilizados:
+- Selenium WebDriver para la automatización de pruebas de interfaz de usuario, simulando las acciones de los usuarios reales.
+- JMeter o Locust para pruebas de carga y estrés, verificando el rendimiento bajo condiciones de alta demanda.
+- Postman para probar la correcta respuesta de las APIs en los flujos principales, como el registro, reservas, y pagos.
+
+Resultado esperado:
+Todas las funcionalidades del sistema deben operar sin fallas en los escenarios más comunes y en situaciones de carga elevada. Los errores detectados durante estas pruebas deben ser priorizados y corregidos antes de lanzar la plataforma al mercado.
 
 # [Capítulo VII: DevOps Practices](#capítulo-vii-DevOps-Practices)
 
