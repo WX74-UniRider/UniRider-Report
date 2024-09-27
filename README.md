@@ -205,6 +205,13 @@ Los integrantes del equipo son:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+- [Capítulo VI: Product Verification & Validation.\*\*](#capítulo-vi-product-Verification-validation)
+  - [6.1.  Testing Suites & Validation. ](#61-Testing-Suites-Validation)
+    - [6.1.1.  Core Entities Unit Tests.](#611-Core-Entities-Unit-Tests)
+    - [6.1.2. Core Integration Tests.](#612-Core-Integration-Tests)
+    - [6.1.3. Core Behavior-Driven Development.](#613-Core-Behavior-Driven-Development)
+    - [6.1.4. Core System Tests.](#614-Core-System-Tests)
+- [Capítulo VII: DevOps Practices.\*\*](#capítulo-vii-DevOps-Practices)
 - [6.Conclusiones.](#6conclusiones)
 - [7.Bibliografía.](#7bibliografía)
 - [8.Anexos.](#8anexos)
@@ -1544,6 +1551,73 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 https://github.com/WX74-UniRider/LandingPage.git
 
 ![Evidencia](images/evidencia.png)
+
+# [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-Verification-validation)
+
+## [6.1. Testing Suites & Validation](#61-Testing-Suites-Validation)
+
+La sección de Testing Suites & Validation se enfocará en cómo se realiza la verificación y validación de los componentes principales del proyecto UniRider. Incluirá pruebas unitarias, de integración y desarrollo guiado por comportamiento (BDD) para garantizar la calidad y el correcto funcionamiento de los módulos core.
+
+### [6.1.1. Core Entities Unit Tests.](#611-Core-Entities-Unit-Tests)
+
+Las pruebas unitarias están diseñadas para verificar la funcionalidad de las entidades centrales del sistema de forma aislada. Para el proyecto UniRider, estas entidades pueden incluir clases y métodos esenciales, como gestión de usuarios, reservas de viaje, y cálculo de tarifas. Se utilizarán frameworks como JUnit o pytest para escribir y ejecutar estas pruebas.
+
+- Objetivo: Asegurarse de que cada componente individual funcione como se espera en diferentes condiciones.
+
+- Ejemplos de pruebas:
+  - Pruebas para validar la creación de un usuario con datos válidos e inválidos.
+  - Verificación de que el cálculo de tarifas genera los resultados esperados para diferentes distancias.
+  - Pruebas para asegurar que las reservas de viaje sólo se puedan crear en horarios válidos.
+
+Gracias a la herramienta de Selenium-IDE se ha logrado realizar los test que se
+ejecutaron en la Landing Page que se muestra a continuación.
+
+![LandingPage](images/Landing%20page.png)
+
+
+
+### [6.1.2. Core Integration Tests.](#612-Core-Integration-Tests)
+
+Las pruebas de integración verifican que los módulos principales del sistema trabajen juntos de manera correcta. En UniRider, esto podría incluir la interacción entre los módulos de usuario, reservas y pagos.
+
+- Objetivo: Comprobar que la integración de varios módulos funcione correctamente, garantizando que los componentes interdependientes interactúan de manera adecuada.
+
+- Ejemplos de pruebas:
+  - Verificar que un usuario puede registrarse, iniciar sesión y realizar una reserva, asegurando que los módulos de autenticación y reservas estén correctamente integrados.
+  - Validar que después de realizar una reserva, se pueda proceder con el pago, y que toda la información se registre correctamente en la base de datos.
+  - Asegurar que las notificaciones se envíen al usuario después de confirmar una reserva.
+
+- Landing page:
+
+![LandingPage](images/test%20landing.png)
+
+
+- App web:
+
+![App web](images/test%20app%20web.png)
+
+
+### [6.1.3. Core Behavior-Driven Development](#613-Core-Behavior-Driven-Development)
+
+El desarrollo guiado por comportamiento se centra en definir el comportamiento del sistema en lenguaje natural, facilitando la colaboración entre desarrolladores y stakeholders. Se utilizan herramientas como Cucumber o Behave para definir los escenarios de prueba.
+
+- Objetivo: Asegurar que el sistema se comporte según lo esperado desde la perspectiva del usuario final, basado en historias de usuario y criterios de aceptación.
+
+- Ejemplos de escenarios:
+  - Escenario: Un usuario realiza una reserva con éxito.
+    - Dado que el usuario está autenticado y en la página de reservas,
+    - Cuando selecciona el origen, destino y horario,
+    - Entonces se muestra un mensaje de confirmación y se le permite proceder con el pago.
+  - Escenario: Un usuario intenta realizar una reserva sin estar autenticado.
+    - Dado que el usuario no ha iniciado sesión,
+    - Cuando intenta acceder a la página de reservas,
+    - Entonces se redirige a la página de inicio de sesión con un mensaje de error.
+
+### [6.1.4. Core System Tests.](#614-Core-System-Tests)
+
+# [Capítulo VII: DevOps Practices](#capítulo-vii-DevOps-Practices)
+
+
 
 # [6.Conclusiones.](#conclusiones)
 
