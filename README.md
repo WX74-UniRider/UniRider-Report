@@ -205,6 +205,13 @@ Los integrantes del equipo son:
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+- [Capítulo VI: Product Verification & Validation.\*\*](#capítulo-vi-product-Verification-validation)
+  - [6.1.  Testing Suites & Validation. ](#61-Testing-Suites-Validation)
+    - [6.1.1.  Core Entities Unit Tests.](#611-Core-Entities-Unit-Tests)
+    - [6.1.2. Core Integration Tests.](#612-Core-Integration-Tests)
+    - [6.1.3. Core Behavior-Driven Development.](#613-Core-Behavior-Driven-Development)
+    - [6.1.4. Core System Tests.](#614-Core-System-Tests)
+- [Capítulo VII: DevOps Practices.\*\*](#capítulo-vii-DevOps-Practices)
 - [6.Conclusiones.](#6conclusiones)
 - [7.Bibliografía.](#7bibliografía)
 - [8.Anexos.](#8anexos)
@@ -264,6 +271,10 @@ La startup, presentada con el nombre de “UniRider”, se enfoca en movilizar d
      <tr>
       <td>Mi nombre es Valentino Cervantes gusta programar. escuchar música, jugar y leer un poco. Suelo hacer proyectos dedicados a ayudar a personas de mi entorno usando múltiples herramientas de programación. Puedo realizar trabajos de planeamiento e investigación para los proyectos en los que participo. Puedo aportar al equipo mejorando o apoyando en partes difíciles.</td>
     <td><img src="images/fotoVal.jpeg" width="100" height="100"></td>
+  </tr>
+     <tr>
+      <td>Mi nombre es Elias Yauri, soy una persona muy participativa cuando se trata en el tema laboral y en el trabajo en equipo, siempre trato que haya una comunicación constante con todos los miembros del grupo para de esta forma poder tener todos una buena afinidad como grupo y que el trabajo se realice de manera exitosa.</td>
+    <td><img src="images/Elias.jpeg" width="100" height="100"></td>
   </tr>
 
     
@@ -814,21 +825,14 @@ Brenda
 
 |Orden|User Story ID|Título|Descripción|Story Points|
 |-----|-------------|------|-----------|------------|
-|1|US01|Visualizar planes de servicio|*Como* Usuario *Quiero* visualizar los planes de servicio *Para* visualizar los precios y beneficios que me brindan|3|
-|2|US02|Seleccionar plan de servicio|*Como* Usuario *Quiero* seleccionar un plan de servicio *Para* adquirir los beneficios ofrecidos|3|
-|3|US03|Realizar pago del plan|*Como* Usuario *Quiero* realizar el pago del plan seleccionado *Para* activar los beneficios ofrecidos|5|
-|4|US08|Filtrar viajes disponibles|*Como* Usuario *Quiero* poder filtrar los viajes disponibles *Para* encontrar opciones que se ajusten a mis preferencias|3|
-|5|US07|Brindar calificaciones|*Como* Usuario *Quiero* brindar calificaciones a los conductores designados *Para* mejorar la experiencia de otros usuarios|5|
-|6|US09|Ver historial de reservas de viaje|*Como* Usuario *Quiero* poder ver mi historial de reservas de viaje *Para* tener un registro de mis viajes anteriores y cancelaciones|3|
-|7|US04|Verificar identidad del conductor|*Como* Usuario *Quiero* verificar la identidad del conductor *Para* garantizar mi seguridad durante el viaje|3|
-|8|US05|Visualizar ruta y detalles del viaje|*Como* Usuario *Quiero* ver la ruta y los detalles del viaje *Para* prepararme adecuadamente y saber qué esperar|3|
-|9|US06|Establecer Ruta y Horario de viaje|*Como* Usuario *Quiero* establecer la ruta y el horario de mi viaje *Para* planificar y compartir adecuadamente mi viaje|8|
-|10|US01|Registro de usuario|*Como* Usuario *Quiero* poder crear mi usuario *Para* acceder al servicio de carpooling|5|
-|11|US02|Búsqueda de Viaje Disponibles|*Como* Usuario *Quiero* buscar viajes disponibles *Para* poder planificar mis desplazamientos|5|
-|12|US03|Reserva de Viaje|*Como* Usuario *Quiero* poder reservar un asiento en el viaje disponible *Para* garantizar mi lugar.|5|
-|13|US04|Comunicación con el Conductor|*Como* Usuario *Quiero* poder comunicarme con el conductor de mi viaje *Para* coordinar detalles y obtener información adicional.|5|
-|14|US05|Cancelación de Reserva|*Como* Usuario *Quiero* poder cancelar una reserva de viaje *Para* los casos de que surjan imprevistos|3|
-|15|US06|Calificación y Comentario del Conductor|*Como* Usuario *Quiero* poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor *Para* ayudar a otros usuarios en su elección|5|
+|1|US02|Seleccionar plan de servicio|*Como* Usuario *Quiero* seleccionar un plan de servicio *Para* adquirir los beneficios ofrecidos|3|
+|2|US03|Realizar pago del plan|*Como* Usuario *Quiero* realizar el pago del plan seleccionado *Para* activar los beneficios ofrecidos|5|
+|3|US05|Visualizar ruta y detalles del viaje|*Como* Usuario *Quiero* ver la ruta y los detalles del viaje *Para* prepararme adecuadamente y saber qué esperar|3|
+|4|US01|Registro de usuario|*Como* Usuario *Quiero* poder crear mi usuario *Para* acceder al servicio de carpooling|5|
+|5|US02|Búsqueda de Viaje Disponibles|*Como* Usuario *Quiero* buscar viajes disponibles *Para* poder planificar mis desplazamientos|5|
+|6|US03|Reserva de Viaje|*Como* Usuario *Quiero* poder reservar un asiento en el viaje disponible *Para* garantizar mi lugar.|5|
+|7|US05|Cancelación de Reserva|*Como* Usuario *Quiero* poder cancelar una reserva de viaje *Para* los casos de que surjan imprevistos|3|
+|8|US06|Calificación y Comentario del Conductor|*Como* Usuario *Quiero* poder calificar y dejar comentarios sobre la experiencia de viaje con el conductor *Para* ayudar a otros usuarios en su elección|5|
 # [Capítulo IV: Product Design.](#capítulo-iv-product-design)
 ## [4.1. Style Guidelines.](#style-guidelines)
 ### [4.1.1. General Style Guidelines.](#general-style-guidelines)
@@ -939,7 +943,12 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 ### [4.3.1. Landing Page Wireframe.](#landing-page-wireframe)
 ![wireframe](images/wlandingpage.png)
 ### [4.3.2. Landing Page Mock-up.](#landing-page-mock-up)
-![MockUp](images/mockupLanding.png)
+![MockUp-Home](images/inicio.png)
+![MockUp-Home](images/service.png)
+![MockUp-Home](images/Functions.png)
+![MockUp-Home](images/Plans.png)
+![MockUp-Home](images/Our.png)
+![MockUp-Home](images/Footer.png)
 ## [4.4. Web Applications UX/UI Design.](#web-applications-uxui-design)
 ### [4.4.1. Web Applications Wireframes.](#web-applications-wireframes)
 Creacion de cuenta:
@@ -1384,7 +1393,7 @@ Prototipado Mobile:
 |Huincho Lapa, Diego Arturo|U201923466@upc.edu.pe|
 |Llacchua Peralta, Joseph Ulysses|U202114851@upc.edu.pe|
 |Arroyo Ormeño, André Alonso||
-|Elias Yauri Paucar||
+|Elias Yauri Paucar|U202211817@upc.edu.pe|
 
 **Despliegues**
 URL Landing Page desplegada:
@@ -1547,6 +1556,104 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 https://github.com/WX74-UniRider/LandingPage.git
 
 ![Evidencia](images/evidencia.png)
+
+# [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-Verification-validation)
+
+## [6.1. Testing Suites & Validation](#61-Testing-Suites-Validation)
+
+La sección de Testing Suites & Validation se enfocará en cómo se realiza la verificación y validación de los componentes principales del proyecto UniRider. Incluirá pruebas unitarias, de integración y desarrollo guiado por comportamiento (BDD) para garantizar la calidad y el correcto funcionamiento de los módulos core.
+
+### [6.1.1. Core Entities Unit Tests.](#611-Core-Entities-Unit-Tests)
+
+Las pruebas unitarias están diseñadas para verificar la funcionalidad de las entidades centrales del sistema de forma aislada. Para el proyecto UniRider, estas entidades pueden incluir clases y métodos esenciales, como gestión de usuarios, reservas de viaje, y cálculo de tarifas. Se utilizarán frameworks como JUnit o pytest para escribir y ejecutar estas pruebas.
+
+- Objetivo: Asegurarse de que cada componente individual funcione como se espera en diferentes condiciones.
+
+- Ejemplos de pruebas:
+  - Pruebas para validar la creación de un usuario con datos válidos e inválidos.
+  - Verificación de que el cálculo de tarifas genera los resultados esperados para diferentes distancias.
+  - Pruebas para asegurar que las reservas de viaje sólo se puedan crear en horarios válidos.
+
+Gracias a la herramienta de Selenium-IDE se ha logrado realizar los test que se
+ejecutaron en la Landing Page que se muestra a continuación.
+
+![LandingPage](images/Landing%20page.png)
+
+
+
+### [6.1.2. Core Integration Tests.](#612-Core-Integration-Tests)
+
+Las pruebas de integración verifican que los módulos principales del sistema trabajen juntos de manera correcta. En UniRider, esto podría incluir la interacción entre los módulos de usuario, reservas y pagos.
+
+- Objetivo: Comprobar que la integración de varios módulos funcione correctamente, garantizando que los componentes interdependientes interactúan de manera adecuada.
+
+- Ejemplos de pruebas:
+  - Verificar que un usuario puede registrarse, iniciar sesión y realizar una reserva, asegurando que los módulos de autenticación y reservas estén correctamente integrados.
+  - Validar que después de realizar una reserva, se pueda proceder con el pago, y que toda la información se registre correctamente en la base de datos.
+  - Asegurar que las notificaciones se envíen al usuario después de confirmar una reserva.
+
+- Landing page:
+
+![LandingPage](images/test%20landing.png)
+
+
+- App web:
+
+![App web](images/test%20app%20web.png)
+
+
+### [6.1.3. Core Behavior-Driven Development](#613-Core-Behavior-Driven-Development)
+
+El desarrollo guiado por comportamiento se centra en definir el comportamiento del sistema en lenguaje natural, facilitando la colaboración entre desarrolladores y stakeholders. Se utilizan herramientas como Cucumber o Behave para definir los escenarios de prueba.
+
+- Objetivo: Asegurar que el sistema se comporte según lo esperado desde la perspectiva del usuario final, basado en historias de usuario y criterios de aceptación.
+
+- Ejemplos de escenarios:
+  - Escenario: Un usuario realiza una reserva con éxito.
+    - Dado que el usuario está autenticado y en la página de reservas,
+    - Cuando selecciona el origen, destino y horario,
+    - Entonces se muestra un mensaje de confirmación y se le permite proceder con el pago.
+  - Escenario: Un usuario intenta realizar una reserva sin estar autenticado.
+    - Dado que el usuario no ha iniciado sesión,
+    - Cuando intenta acceder a la página de reservas,
+    - Entonces se redirige a la página de inicio de sesión con un mensaje de error.
+
+### [6.1.4. Core System Tests.](#614-Core-System-Tests)
+Las pruebas de sistema (System Tests) se enfocan en evaluar el comportamiento completo del sistema UniRider en su entorno de ejecución real. Estas pruebas verifican que todos los componentes, tanto de backend como de frontend, trabajen en conjunto y que el sistema cumpla con los requisitos funcionales y no funcionales establecidos.
+
+Objetivo: Validar que el sistema completo funcione correctamente desde la perspectiva del usuario final, asegurando que los flujos de trabajo principales operen de manera adecuada y que el sistema responda a las interacciones de los usuarios como se espera.
+
+Ejemplos de pruebas:
+- Registro y autenticación de usuarios:
+  - Validar que un usuario puede registrarse, iniciar sesión, y acceder a las funcionalidades del sistema según su rol.
+  - Verificar el flujo completo de autenticación de dos factores, si está habilitado.
+
+- Búsqueda y reserva de viajes:
+  - Probar que los usuarios pueden buscar viajes disponibles, aplicar filtros como ubicación y hora, y reservar con éxito.
+  - Asegurar que el sistema muestra notificaciones adecuadas en caso de errores, como intentar reservar un viaje sin disponibilidad.
+
+- Procesamiento de pagos:
+  - Verificar que el sistema permite a los usuarios realizar pagos de manera segura, y que se registran correctamente en la base de datos.
+  - Validar que los usuarios reciben confirmaciones tras completar el pago, y que se actualiza el estado de la reserva.
+
+- Calificación y comentarios:
+  - Asegurarse de que, al finalizar el viaje, los usuarios puedan calificar al conductor y dejar comentarios, y que esta información se refleje correctamente en el perfil del conductor.
+
+- Desempeño bajo carga:
+  - Evaluar cómo responde el sistema cuando hay un alto número de usuarios concurrentes buscando y reservando viajes al mismo tiempo.
+  - Validar que el sistema sigue funcionando de manera eficiente y no experimenta tiempos de espera prolongados o fallos de respuesta.
+
+Herramientas y frameworks utilizados:
+- Selenium WebDriver para la automatización de pruebas de interfaz de usuario, simulando las acciones de los usuarios reales.
+- JMeter o Locust para pruebas de carga y estrés, verificando el rendimiento bajo condiciones de alta demanda.
+- Postman para probar la correcta respuesta de las APIs en los flujos principales, como el registro, reservas, y pagos.
+
+Resultado esperado:
+Todas las funcionalidades del sistema deben operar sin fallas en los escenarios más comunes y en situaciones de carga elevada. Los errores detectados durante estas pruebas deben ser priorizados y corregidos antes de lanzar la plataforma al mercado.
+
+# [Capítulo VII: DevOps Practices](#capítulo-vii-DevOps-Practices)
+
+
 
 # [6.Conclusiones.](#conclusiones)
 
